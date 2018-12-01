@@ -1,0 +1,1 @@
+<h1>Blog web - Django</h1>
